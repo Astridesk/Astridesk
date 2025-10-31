@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋 I'm Astrid
 
 <!--
-**Astridesk/Astridesk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Astridesk/Astridesk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--->
+  
+ 🧑‍🎓I'm an IT student at UiA who's really looking forward to learning more about programming :D
+ 
+ 🌱 Currently learning:
+  - python
 
-Here are some ideas to get you started:
+  🎷I also dabble in:
+  - Learning the saxophone
+  - Blender
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 📫 Contact me: [LinkedIn] (https://www.linkedin.com/in/astrid-e-skadberg-9a9946389/)
+  
