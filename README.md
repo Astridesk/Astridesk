@@ -12,5 +12,5 @@
   - Learning the saxophone
   - Blender
 
- 📫 Contact me: [LinkedIn] (https://www.linkedin.com/in/astrid-e-skadberg-9a9946389/).
+ 📫 Contact me: [LinkedIn](https://www.linkedin.com/in/astrid-e-skadberg-9a9946389/).
   
